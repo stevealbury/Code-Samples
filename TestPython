@@ -1,2 +1,5 @@
 #boring comment
 
+print("some text")
+
+#EOF
