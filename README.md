@@ -1,4 +1,0 @@
-OERLitReview
-============
-
-lit review doc
